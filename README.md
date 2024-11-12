@@ -1,5 +1,5 @@
 # NestJS
-Project Name
+
 Overview
 This project is a backend microservices-based application built using NestJS, with a focus on modularity and efficient communication between services.  Each microservice is deployed independently, communicating via TCP protocol and Kafka for real-time and asynchronous interactions, respectively.
 
